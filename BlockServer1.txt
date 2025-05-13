@@ -820,3 +820,5 @@
 ||t.paypal.com^
 ||b.px-cdn.net^
 ||safebrowsing.googleapis.com^
+||checkip.amazonaws.com^
+||pro.ip-api.com^
